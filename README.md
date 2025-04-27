@@ -6,7 +6,7 @@
 
 ### 关于我
 
-- 🌱 广州全栈应届生
+- 🌱 广州全栈
 - 💬 有任何前后端或者项目相关咨询，欢迎提出探讨~  [ss.ok@foxmail.com](mailto:ss.ok@foxmail.com)
 - ⚡ 爱好: 写代码
 - github: https://github.com/mxywds
@@ -68,29 +68,6 @@
 <img alt="JMeter" src="https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
 
 </p>
-
-<h3>开源项目</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a target="_blank" href="https://gitee.com/mxywds/doc-cloud-share-server"><b>文档管理系统</b></a></td>
-      <td><img alt="Stars" src="https://gitee.com/mxywds/doc-cloud-share-server/badge/star.svg?theme=dark"/></td>
-       <td><img alt="Forks" src="https://gitee.com/mxywds/doc-cloud-share-server/badge/fork.svg?theme=dark"/></td>
-      </tr>
-	     <tr>
-      <td><a target="_blank" href="https://gitee.com/mxywds/vue-float-window-pro"><b>仿win窗口悬浮窗</b></a></td>
-      <td><img alt="Stars" src="https://gitee.com/mxywds/vue-float-window-pro/badge/star.svg?theme=dark"/></td>
-       <td><img alt="Forks" src="https://gitee.com/mxywds/vue-float-window-pro/badge/fork.svg?theme=dark"/></td>
-   </tr>
-  </tbody>
-</table>
 
 
 > ***用代码表达言语的魅力，用代码书写山河的壮丽。***
